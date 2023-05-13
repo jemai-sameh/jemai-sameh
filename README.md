@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **#Spring-Boot, #Angular, #Linux**
 
-- 📫 You can reach me via ***samehjemai98@gmail.com**, ***Linkedin***.
+- 📫 You can reach me via ***samehjemai98@gmail.com***, ***Linkedin***.
 
 
 ### <h3 align="left">Connect with me:</h3>
