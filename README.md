@@ -1,10 +1,17 @@
 
- <h1>👋 Hi, I am Sameh Jemai.</h1>
-- 👀 I am interested in devops and full stack spring boot angular.
-- 🌱 I am Software Engineering.
-- 💞️ I am a Co-Founder of the of DEVناس Podcast.
+ <h1 align="center">👋 Hi, I’m Sameh Jemai.</h1>
+ 
+- 👀 I’m interested in devops and full stack spring boot angular.
+
+- 🌱 I’m currently learning Software Engineering.
+
+- 💞️ I’m a Co-Founder of the of DEVناس Podcast.
+
+- 👯 I’m looking to collaborate on projects
+
 - 💬 Ask me about **#Spring-Boot, #Angular, #Linux**
-- 📫 You can reach me via [Linkedin], [GMAIL](mailto:samehjemai98@gmail.com).
+
+- 📫 You can reach me via ***samehjemai98@gmail.com**, ***Linkedin***.
 
 
 ### <h3 align="left">Connect with me:</h3>
