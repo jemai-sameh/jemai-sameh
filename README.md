@@ -1,11 +1,11 @@
 
- <h1 align="center">👋 Hi, I’m Sameh Jemai.</h1>
+ <h1 >👋 Hi, I’m Sameh Jemai.</h1>
  
 - 👀 I’m interested in devops and full stack spring boot angular.
 
 - 🌱 I’m currently learning Software Engineering.
 
-- 💞️ I’m a Co-Founder of the of DEVناس Podcast.
+- 💞️ I’m a Co-Founder of the DEVناس Podcast.
 
 - 👯 I’m looking to collaborate on projects
 
@@ -16,10 +16,10 @@
 
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jemai-sameh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jemai-sameh/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jemai.jemai.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jemai.jemai.18/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@dev-ness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dev-ness" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/jemai98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/jemai98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jemai-sameh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jemai-sameh/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jemai.jemai.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jemai.jemai.18/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dev-ness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dev-ness" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jemai98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/jemai98" height="30" width="40" /></a>
 <a href="https://discord.gg/sameh#4487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sameh#4487" height="30" width="40" /></a>
 </p>
 
