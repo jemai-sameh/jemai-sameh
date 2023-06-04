@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Software Engineering.
 
-- 💞️ I’m a Co-Founder of the DEVناس Podcast.
-
 - 👯 I’m looking to collaborate on projects
 
 - 💬 Ask me about **#Spring-Boot, #Angular, #Linux**
