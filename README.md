@@ -1,6 +1,6 @@
 
  <h1 >👋 Hi, I’m Sameh Jemai</h1>
- 
+ <img align="right" alt="coding" width="400" src="https://github.com/jemai-sameh/jemai-sameh/blob/main/animated-man-computer-coding.gif">
 - 👀 I’m interested in devops and full stack spring boot angular.
 
 - 🌱 I’m currently learning Software Engineering.
